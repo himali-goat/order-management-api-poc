@@ -17,9 +17,13 @@ Client / API Consumer
         |
   [ In-Memory Store ]      ← replace with PostgreSQL / SAP in production
 ```
-## Infrastructure diagram
+
+---
+
+## Infrastructure Diagram
 
 ![POC Infrastructure](images/poc-infrastructure.png)
+
 ---
 
 ## Quick Start
