@@ -98,6 +98,15 @@ PENDING → CONFIRMED → PROCESSING → CANCELLED
 ```
 
 ---
+## POC - Tech Stack
+
+| Component | Technology | Version |
+|-----------|-----------|---------|
+| API Framework | FastAPI | 0.110.0 |
+| Web Server | Uvicorn | 0.29.0 |
+| Data Validation | Pydantic | 2.6.4 |
+| Runtime | Python | 3.11 |
+| Container | Docker | - |
 
 ## Production Considerations (beyond POC)
 
