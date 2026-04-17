@@ -116,3 +116,12 @@ PENDING → CONFIRMED → PROCESSING → CANCELLED
 - Add event publishing (Kafka/Event Grid) on order state changes
 - Add pagination to GET /orders
 - Deploy behind an API Gateway (Azure APIM, Kong, AWS API GW)
+---
+
+## Attribution
+
+This POC was designed by [Rabindra Aryal](https://www.linkedin.com/in/rabindra-aryal-84912b12) 
+and built with the assistance of [Claude.ai](https://claude.ai) (Anthropic). 
+
+The architecture decisions, domain model, API design, and business rules were defined 
+by the author. Claude assisted with code generation, containerization, and documentation.
